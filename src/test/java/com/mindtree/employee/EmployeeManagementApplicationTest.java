@@ -1,4 +1,4 @@
-package com.mindtree.employee;
+/*package com.mindtree.employee;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,7 +11,7 @@ import com.mindtree.employee.repository.EmployeeRepositoryTest;
 import com.mindtree.employee.service.impl.EmployeeServiceTest;
 
 @RunWith(Suite.class)
-@SuiteClasses({/*EmployeeControllerTest.class,*/EmployeeServiceTest.class,EmployeeDaoImplTest.class,EmployeeRepositoryTest.class})
+@SuiteClasses({EmployeeControllerTest.class,EmployeeServiceTest.class,EmployeeDaoImplTest.class,EmployeeRepositoryTest.class})
 @SpringBootTest
 public class EmployeeManagementApplicationTest {
 
@@ -19,3 +19,4 @@ public class EmployeeManagementApplicationTest {
 	public void contextLoads() {
 	}
 }
+*/

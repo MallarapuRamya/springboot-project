@@ -1,4 +1,4 @@
-package com.mindtree.employee.repository;
+/*package com.mindtree.employee.repository;
 
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,3 +15,4 @@ public class EmployeeRepositoryTest {
         
     }
 }
+*/
